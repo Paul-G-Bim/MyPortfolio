@@ -10,7 +10,7 @@ with col1:
 
 with col2:
     st.title("Paul Grant")
-    portfolio_description = '''A Data Scientist in Training. Leveraging Python to 
+    portfolio_description = '''A Data Scientist in training. Leveraging Python to 
     explore data-driven insights and build innovative solutions.'''
     st.info(portfolio_description)
 
